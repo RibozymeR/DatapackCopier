@@ -1,0 +1,7 @@
+name: DatapackCopier
+version: 1.0
+main: ribozyme.dpc.DatapackCopier
+description: PaperMC Plugin to copy datapacks from global server datapacks/ folder to every world datapacks/ folder
+author: Cecilia Knäbchen
+api-version: '1.20'
+load: STARTUP
